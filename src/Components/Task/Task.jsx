@@ -29,7 +29,7 @@ class Task extends Component {
                 />
                 <TextField
                 id="outlined-name"
-                type="Date"
+                type="date"
                 margin="normal"
                 variant="outlined"
                 style={{width: '44vw', marginLeft: '28px'}}
