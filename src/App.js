@@ -13,14 +13,14 @@ class App extends Component {
         {
           id: 1,
           task: 'walk the dog',
-          description: 'walk da dog lol',
+          description: 'take the dog to the park',
           status: 'Pending',
           date: "2019-04-20"
         },
         {
           id: 2,
-          task: 'do some',
-          description: 'lil some some',
+          task: 'test task #2',
+          description: 'description of second task',
           status: 'Pending',
           date: "2019-04-20"
         }
