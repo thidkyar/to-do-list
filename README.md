@@ -6,7 +6,7 @@ Each Item in do list has the following:
     Status (i.e. Pending, Done) 
     Due Date
 
-App deployed app on Heroku: https://to-do-list-challenge.herokuapp.com
+App deployed on Heroku: https://to-do-list-challenge.herokuapp.com
 
 ### `npm start`
 
